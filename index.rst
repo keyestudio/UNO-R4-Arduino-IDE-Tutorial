@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: UNO R4 Arduino IDE Tutorial
 
    README.md
-   docs/keyestudio/index
+   docs/UNO R4 Arduino IDE Tutorial.md
 
 
 
