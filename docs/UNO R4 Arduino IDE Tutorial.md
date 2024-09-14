@@ -59,7 +59,7 @@ Installed:
 
 ![Img](./media/img-20240909085444.png) -- Used to manually install library files.
 
-## 2. Install Arduino UNO R4 Board Package
+### 2. Install Arduino UNO R4 Board Package
 
 1\. Click ![Img](./media/img-20240909085707.png) to open “BOARDS MANAGER”. Search “UNO R4” to “INSTALL” Arduino UNO R4.
 
@@ -77,7 +77,7 @@ If you connect UNO R4 Minima board to the computer via USB cable, choose “Ardu
 
 ![Img](./media/img-20240909091139.png)
 
-## 3. Compile and Upload Sketch
+### 3. Compile and Upload Sketch
 
 1\. For the first use of Arduino UNO R4 board, there may be no port after plugging USB cable. Click “Tools” → “Port” and you will see “COM1”. <span style="color: rgb(255, 76, 65);">Here we take “Arduino UNO R4 WIFI” to have a demonstration.</span>
 
